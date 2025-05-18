@@ -2,7 +2,7 @@
 
 🧠 System Design Engineering student at University of Waterloo <br/>
 🔭 I’m currently working on my portfolio website <br/>
-📫 Reach me: https://www.linkedin.com/in/vedant-parikh-4418981a4/ 
+📫 Feel free to reach out
 
 
 
