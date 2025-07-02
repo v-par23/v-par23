@@ -1,6 +1,6 @@
 ## Hi, I'm Vedant 👋
  
-🧠 Systems Design Engineering student at University of Waterloo  <br/>
+🧠 Systems Design Engineering student at University of Waterloo  <br/> 
 🔭 I’m currently working on my portfolio website <br/>
 📫 Feel free to reach out
  
