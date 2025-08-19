@@ -2,6 +2,7 @@
   
 🧠 Systems Design Engineering student at University of Waterloo  <br/> 
 📫 Feel free to reach out
+👨🏻‍💻 Check out my portfolio: https://v-par23portfolio.vercel.app/ 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-parikh-4418981a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parikhvedant23@gmail.com) 
