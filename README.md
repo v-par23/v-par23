@@ -1,7 +1,7 @@
 ## Hi, I'm Vedant 👋
   
 🧠 Systems Design Engineering student at University of Waterloo  <br/> 
-📫 Feel free to reach out
+📫 Feel free to reach out <br/>
 👨🏻‍💻 Check out my portfolio: https://v-par23portfolio.vercel.app/ 
   
 ## 🌐 Socials:
