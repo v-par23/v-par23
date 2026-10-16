@@ -14,3 +14,11 @@
 <!-- maxume:current_project -->
 Building Maxume — an AI agent that keeps your resume, portfolio, and GitHub in sync. https://github.com/v-par23/maxume
 <!-- /maxume:current_project -->
+
+<!-- maxume:current_role -->
+Senior Software Engineer at TribalScale
+<!-- /maxume:current_role -->
+
+<!-- maxume:featured_project -->
+Maxume — AI agent that keeps your resume, portfolio, and GitHub in sync (Next.js, Supabase, TypeScript).
+<!-- /maxume:featured_project -->
